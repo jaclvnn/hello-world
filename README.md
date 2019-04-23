@@ -1,2 +1,4 @@
 # hello-world
-Mijn eerste repository 
+Mijn eerste repository!
+
+Ik ben Jaclyn
